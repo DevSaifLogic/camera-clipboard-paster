@@ -1,4 +1,4 @@
-# Camera Clipboard Paster
+# ShotPaster
 
 A local Windows Flask app that captures a photo from a phone browser and pastes it into the host computer's clipboard and currently focused application.
 
